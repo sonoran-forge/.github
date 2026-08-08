@@ -10,6 +10,27 @@ Desert metal. Copper and black. Still forging.
 
 ---
 
+## What sets us apart
+
+Most “AI companion” and adult VN products optimize for comfort, infinite retry, and affection on demand. We don’t.
+
+| Others often ship | Sonoran Forge ships |
+|-------------------|---------------------|
+| Chat with a character | **Act** inside a reactive mini-universe |
+| Soft reset / reload the bad choice | **Permanent ledger** — fail forward, no paid undo |
+| One-way affection that only climbs | **Bidirectional** trust and intimacy that can collapse |
+| Generic helpful NPC voice | **World-pack authenticity** — realm rules, not customer service |
+| Scripted trees or forgetful sessions | **VARP Engine** + **True Emotion Engine** — bias, residue, virtue sheets, durable state |
+| Agenda-shaped content checklists | **Worlds, not agendas** — play any adult path the world allows |
+| Cloud-only dependency | **Local-first** (optional cloud for art / Avatar Lab) |
+| Franchise skin over a chatbot | **Original IP** world packs on a shared engine |
+
+**VARP** is not “virtual roleplay” as a chat genre. It is **Virtual Action Role Play** — closer to LARP than to a dating sim: your choices write the world, NPCs form biases instead of total recall, and the same action does not farm infinite reward.
+
+If you want a vending machine for affection, we are the wrong studio. If you want weight, memory, and a street that keeps receipts — you’re in the right forge.
+
+---
+
 ## What we make
 
 | Project | What it is | Status |
