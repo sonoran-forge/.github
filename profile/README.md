@@ -10,6 +10,71 @@ Desert metal. Copper and black. Still forging.
 
 ---
 
+## The VARP lineage — why this was always next
+
+Live Action Role Play did not appear from nowhere. Neither does **VARP**.
+
+For fifty years the hobby kept asking the same question: *Can I step into the story instead of only describing it?* Each era answered with the tools it had. The body. The field. The rulebook. The manifesto. The chat window.
+
+The chat window was a detour — not the destination.
+
+```mermaid
+flowchart LR
+  A[Make-believe · theater · reenactment] --> B[SCA 1966]
+  B --> C[Dagorhir / Treasure Trap\n1977–82]
+  C --> D[Theater LARP · Mind’s Eye\n1980s–90s]
+  D --> E[Nordic larp · immersion · bleed\n1990s–2000s]
+  E --> F[Digital roleplay\nforums → AI chat]
+  F --> G["Companion" products\ncomfort · retry · forget]
+  E -.->|the missing branch| H[VARP\nVirtual Action Role Play]
+  H --> I[True Emotion Engine\n+ permanent ledger]
+
+  style G fill:#333,stroke:#666,color:#aaa
+  style H fill:#b87333,stroke:#e8a04a,color:#111
+  style I fill:#b87333,stroke:#e8a04a,color:#111
+```
+
+### Timeline
+
+| Era | What humans built | What it still couldn’t do at scale |
+|-----|-------------------|-------------------------------------|
+| **Before 1966** | Play-fighting, persona, improv, ritual | Shared persistent rules across strangers |
+| **1966+** | SCA — costume, combat, “I am this person” | Fantasy law beyond historical play |
+| **1977–82** | **Dagorhir**, **Treasure Trap**, live D&D — LARP as *you are there* | Always-on world; NPCs that aren’t other players |
+| **1980s–90s** | Theater LARP, **Mind’s Eye Theatre** | Continuous campaign without logistics walls |
+| **1990s–2000s** | **Nordic larp** — immersion, 360°, bleed, no soft story | Accessible daily play; durable digital agents |
+| **2000s–2010s** | Forums, MUDs, MMOs, scripted AVNs | Free-form *action* with permanent social consequence |
+| **2020s** | LLM “companions” | Weight. Memory that bruises. A street that keeps receipts |
+| **Now** | **VARP** — Virtual Action Role Play | *This* is the line that should have been drawn when the models arrived |
+
+### The inevitability argument
+
+1. **LARP proved the demand** — people will drive hours, sleep in fields, and risk awkwardness for *embodied* consequence.  
+2. **Tabletop proved the systems** — characters, resolution, campaign continuity.  
+3. **Nordic theory proved the ambition** — immersion and emotional truth are design goals, not accidents.  
+4. **Networks proved the reach** — millions will play as a character online.  
+5. **Language models proved the missing NPC** — reactive agents that can speak in a world’s voice.  
+
+What almost nobody did was **put 1–5 back together**:  
+**free-form action + permanent score + world law + agents that form bias instead of forgetting.**
+
+Instead the market optimized the easiest product: *comfort chat*. Reload the bad line. Affection that only climbs. A world that resets when you close the tab.
+
+That is not the evolution of LARP. That is LARPing’s shadow — the version that kept the costume and sold the spine for spare parts.
+
+**VARP** is the claim that the spine was the point.
+
+**True Emotion Engine** is the claim that NPCs should carry residue the way people do — not eidetic transcripts, **bias**.
+
+If this feels obvious in hindsight, good.  
+Obvious things are often the ones an industry walks past for a decade.
+
+*Where the hell was this all these years?*  
+In the field. In the manifestos. In the ledger we refused to soft-delete.  
+We’re forging it in Tucson.
+
+---
+
 ## What sets us apart
 
 Most “AI companion” and adult VN products optimize for comfort, infinite retry, and affection on demand. We don’t.
