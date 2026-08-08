@@ -14,7 +14,7 @@ Desert metal. Copper and black. Still forging.
 
 Live Action Role Play did not appear from nowhere. Neither does **VARP**.
 
-For fifty years the hobby kept asking the same question: *Can I step into the story instead of only describing it?* Each era answered with the tools it had. The body. The field. The rulebook. The manifesto. The chat window.
+For fifty years the hobby kept asking the same question: *Can I step into the story instead of only describing it?* Each era answered with the tools it had. The body. The field. The rulebook. The manifesto. The persistent digital world. The chat window.
 
 The chat window was a detour — not the destination.
 
@@ -24,14 +24,17 @@ flowchart LR
   B --> C[Dagorhir / Treasure Trap\n1977–82]
   C --> D[Theater LARP · Mind’s Eye\n1980s–90s]
   D --> E[Nordic larp · immersion · bleed\n1990s–2000s]
-  E --> F[Digital roleplay\nforums → AI chat]
-  F --> G["Companion" products\ncomfort · retry · forget]
-  E -.->|the missing branch| H[VARP\nVirtual Action Role Play]
-  H --> I[True Emotion Engine\n+ permanent ledger]
+  E --> F[MUDs · UO · EverQuest\nearly persistent worlds]
+  F --> G[World of Warcraft 2004\nMMORPG goes mainstream]
+  G --> H[Digital RP culture\nforums · RP servers · AVN]
+  H --> I["Companion" products\ncomfort · retry · forget]
+  E -.->|the missing branch| J[VARP\nVirtual Action Role Play]
+  G -.->|always-on world · social weight| J
+  J --> K[True Emotion Engine\n+ permanent ledger]
 
-  style G fill:#333,stroke:#666,color:#aaa
-  style H fill:#b87333,stroke:#e8a04a,color:#111
-  style I fill:#b87333,stroke:#e8a04a,color:#111
+  style I fill:#333,stroke:#666,color:#aaa
+  style J fill:#b87333,stroke:#e8a04a,color:#111
+  style K fill:#b87333,stroke:#e8a04a,color:#111
 ```
 
 ### Timeline
@@ -43,19 +46,38 @@ flowchart LR
 | **1977–82** | **Dagorhir**, **Treasure Trap**, live D&D — LARP as *you are there* | Always-on world; NPCs that aren’t other players |
 | **1980s–90s** | Theater LARP, **Mind’s Eye Theatre** | Continuous campaign without logistics walls |
 | **1990s–2000s** | **Nordic larp** — immersion, 360°, bleed, no soft story | Accessible daily play; durable digital agents |
-| **2000s–2010s** | Forums, MUDs, MMOs, scripted AVNs | Free-form *action* with permanent social consequence |
+| **1990s–early 2000s** | **MUDs**, **Ultima Online**, **EverQuest** — persistent multiplayer worlds | Mainstream reach; readable social consequence for millions |
+| **2004+** | **World of Warcraft** — the title that made the **MMORPG** a cultural default | Free-form *authored* NPC depth; permanent personal consequence without grind theater |
+| **2000s–2010s** | RP servers, forums, scripted AVNs — digital roleplay culture at scale | Agents that bruise; a ledger that is not just gear and rank |
 | **2020s** | LLM “companions” | Weight. Memory that bruises. A street that keeps receipts |
 | **Now** | **VARP** — Virtual Action Role Play | *This* is the line that should have been drawn when the models arrived |
+
+### Credit where due — the WoW step
+
+Before language models, the largest proof that people would **live inside a digital world** was the MMORPG — and **World of Warcraft (2004)** was the breakout that taught a generation the grammar of immersion online.
+
+It did not invent persistent worlds alone (**Ultima Online**, **EverQuest**, and MUDs before them carried the torch). What WoW did was make that grammar **default**:
+
+- The world runs while you are offline  
+- Reputation, faction, and social standing are real pressures  
+- Other players are witnesses — not an audience you can soft-delete  
+- “I have a character there” became ordinary speech  
+
+That is a direct ancestor of VARP’s promise: **an always-on space that keeps score**.  
+What WoW (and the genre it crowned) still could not give at scale was **LARP-grade free-form action against deep, biased NPCs** — the street that remembers *you*, not only your gear score.
+
+We stand on that shoulder. We do not pretend the companion chatbot invented digital presence.
 
 ### The inevitability argument
 
 1. **LARP proved the demand** — people will drive hours, sleep in fields, and risk awkwardness for *embodied* consequence.  
 2. **Tabletop proved the systems** — characters, resolution, campaign continuity.  
 3. **Nordic theory proved the ambition** — immersion and emotional truth are design goals, not accidents.  
-4. **Networks proved the reach** — millions will play as a character online.  
-5. **Language models proved the missing NPC** — reactive agents that can speak in a world’s voice.  
+4. **MUDs / UO / EverQuest proved persistence** — the world can outlast a session.  
+5. **World of Warcraft proved the mainstream** — millions will treat a digital world as a second place they *have a life in*.  
+6. **Language models proved the missing NPC** — reactive agents that can speak in a world’s voice.  
 
-What almost nobody did was **put 1–5 back together**:  
+What almost nobody did was **put 1–6 back together**:  
 **free-form action + permanent score + world law + agents that form bias instead of forgetting.**
 
 Instead the market optimized the easiest product: *comfort chat*. Reload the bad line. Affection that only climbs. A world that resets when you close the tab.
@@ -70,7 +92,7 @@ If this feels obvious in hindsight, good.
 Obvious things are often the ones an industry walks past for a decade.
 
 *Where the hell was this all these years?*  
-In the field. In the manifestos. In the ledger we refused to soft-delete.  
+In the field. In the manifestos. In Azeroth. In the ledger we refused to soft-delete.  
 We’re forging it in Tucson.
 
 ---
