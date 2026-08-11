@@ -1,6 +1,6 @@
 # SlushTec
 
-**Tucson / Casas Adobes, Arizona · Indie game studio**
+**Tucson, Arizona · Indie game studio**
 
 Adult interactive worlds with permanent consequences.
 
@@ -162,8 +162,8 @@ Most studio work is **private** during development. Public surfaces will open wh
 
 ## Contact
 
-**Owner:** [Brian Slusher](https://github.com/bjslusher) · Tucson / Casas Adobes, AZ  
-**Studio:** SlushTec · [slushtec.com](https://slushtec.com)
+**Owner:** [Brian Slusher](https://github.com/bjslusher) · Tucson, AZ  
+**Studio:** SpushTec · [slushtec.com](https://slushtec.com)
 
 For press or partnership inquiries, use the channels listed on the owner profile or product pages when they go live.
 
