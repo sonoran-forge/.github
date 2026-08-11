@@ -1,2 +1,3 @@
 # .github
-Sonoran Forge organization profile and community health files
+
+SlushTec organization profile and community health files

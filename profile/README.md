@@ -1,6 +1,6 @@
-# Sonoran Forge
+# SlushTec
 
-**Tucson, Arizona · Indie game studio**
+**Tucson / Casas Adobes, Arizona · Indie game studio**
 
 Adult interactive worlds with permanent consequences.
 
@@ -101,8 +101,8 @@ We’re forging it in Tucson.
 
 Most “AI companion” and adult VN products optimize for comfort, infinite retry, and affection on demand. We don’t.
 
-| Others often ship | Sonoran Forge ships |
-|-------------------|---------------------|
+| Others often ship | SlushTec ships |
+|-------------------|----------------|
 | Chat with a character | **Act** inside a reactive mini-universe |
 | Soft reset / reload the bad choice | **Permanent ledger** — fail forward, no paid undo |
 | One-way affection that only climbs | **Bidirectional** trust and intimacy that can collapse |
@@ -114,7 +114,7 @@ Most “AI companion” and adult VN products optimize for comfort, infinite ret
 
 **VARP** is not “virtual roleplay” as a chat genre. It is **Virtual Action Role Play** — closer to LARP than to a dating sim: your choices write the world, NPCs form biases instead of total recall, and the same action does not farm infinite reward.
 
-If you want a vending machine for affection, we are the wrong studio. If you want weight, memory, and a street that keeps receipts — you’re in the right forge.
+If you want a vending machine for affection, we are the wrong studio. If you want weight, memory, and a street that keeps receipts — you’re in the right place.
 
 ---
 
@@ -122,8 +122,8 @@ If you want a vending machine for affection, we are the wrong studio. If you wan
 
 | Project | What it is | Status |
 |---------|------------|--------|
-| **[VARP](https://github.com/sonoran-forge/varp)** | Virtual Action Role Play — a Virtual LARP engine with permanent memory, modular original World Packs, and bidirectional relationships | Active development |
-| **[Ashcourt](https://github.com/sonoran-forge/ashcourt)** | *Hell Rises* — original-IP dark fantasy narrative aRPG; also the flagship World Pack for VARP | Parallel track |
+| **[VARP](https://github.com/SlushTec/varp)** | Virtual Action Role Play — a Virtual LARP engine with permanent memory, modular original World Packs, and bidirectional relationships | Active development |
+| **[Ashcourt](https://github.com/SlushTec/ashcourt)** | *Hell Rises* — original-IP dark fantasy narrative aRPG; also the flagship World Pack for VARP | Parallel track |
 
 **Original IP only.** No third-party franchise dependence in commercial builds. Local-first compute (optional cloud), cross-save between desktop and mobile where the product supports it.
 
@@ -154,16 +154,16 @@ Most studio work is **private** during development. Public surfaces will open wh
 
 | Repo | Notes |
 |------|--------|
-| [varp](https://github.com/sonoran-forge/varp) | Engine + Ashcourt vertical slice |
-| [ashcourt](https://github.com/sonoran-forge/ashcourt) | Hell Rises game track |
-| [.github](https://github.com/sonoran-forge/.github) | This profile and org health files |
+| [varp](https://github.com/SlushTec/varp) | Engine + Ashcourt vertical slice |
+| [ashcourt](https://github.com/SlushTec/ashcourt) | Hell Rises game track |
+| [.github](https://github.com/SlushTec/.github) | This profile and org health files |
 
 ---
 
 ## Contact
 
-**Owner:** [Brian Slusher](https://github.com/bjslusher) · Tucson, AZ  
-**Studio:** Sonoran Forge
+**Owner:** [Brian Slusher](https://github.com/bjslusher) · Tucson / Casas Adobes, AZ  
+**Studio:** SlushTec · [slushtec.com](https://slushtec.com)
 
 For press or partnership inquiries, use the channels listed on the owner profile or product pages when they go live.
 
