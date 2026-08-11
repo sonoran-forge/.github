@@ -86,7 +86,7 @@ That is not the evolution of LARP. That is LARPing’s shadow — the version th
 
 **VARP** is the claim that the spine was the point.
 
-**True Emotion Engine** is the claim that NPCs should carry residue the way people do — not eidetic transcripts, **bias**.
+**True Emotion Engine** is the claim that NPCs should carry residue the way people do — not eidetic transcripts, **bias**. Personality is a trajectory under temperament caps. Illusion of free will is the design target; a full mind is not. V2 ships with Ashcourt; V3 social residual (BondNotice, absence) is near-ready by Pawprint.
 
 If this feels obvious in hindsight, good.  
 Obvious things are often the ones an industry walks past for a decade.
@@ -107,7 +107,7 @@ Most “AI companion” and adult VN products optimize for comfort, infinite ret
 | Soft reset / reload the bad choice | **Permanent ledger** — fail forward, no paid undo |
 | One-way affection that only climbs | **Bidirectional** trust and intimacy that can collapse |
 | Generic helpful NPC voice | **World-pack authenticity** — realm rules, not customer service |
-| Scripted trees or forgetful sessions | **VARP Engine** + **True Emotion Engine** — bias, residue, virtue sheets, durable state |
+| Scripted trees or forgetful sessions | **VARP Engine** + **True Emotion Engine** — bias, residue, schema trajectory, durable state |
 | Agenda-shaped content checklists | **Worlds, not agendas** — play any adult path the world allows |
 | Cloud-only dependency | **Local-first** (optional cloud for art / Avatar Lab) |
 | Franchise skin over a chatbot | **Original IP** world packs on a shared engine |
