@@ -163,7 +163,7 @@ Most studio work is **private** during development. Public surfaces will open wh
 ## Contact
 
 **Owner:** [Brian Slusher](https://github.com/bjslusher) · Tucson, AZ  
-**Studio:** SpushTec · [slushtec.com](https://slushtec.com)
+**Studio:** SlushTec · [slushtec.com](https://slushtec.com)
 
 For press or partnership inquiries, use the channels listed on the owner profile or product pages when they go live.
 
